@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,table,td,tr,input,ul,ol,li,dl,dt,dd,th,textarea{ padding:0; margin:0; line-height:100%;}
+body{ color:#333; font-size:12px;}
+h1,h2,h3,h4,h5,h6{font-size:100%; font-weight:normal;}
+a{ color:#333; text-decoration:none; outline:0;}
+li{ list-style:none;}
+table{  border-collapse:collapse;}
+i,em{ font-style:normal;}
+b,strong{ font-weight:normal;}
+a img{ border:0;}
+form{ margin-bottom:0;}
+input,button,textarea{ outline:none; border:none 0; background:none;}
+textarea{ resize:none;}
+select{ outline:none;}
+.clearfix:after{ display:block; clear:both; content:'';}
+.clearfix{ zoom:1}

@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+.wrapper{ width:100%; margin:0 auto;}
+.pos{ position:relative; left:0; top:0;}
+.headerbg{ background:url(/images/download/headerBg.png) repeat-x center; height:96px; border-bottom:1px solid #ffffff;}
+.header{ background:url(/images/download/header.png) no-repeat center;padding-left:180px; height:96px;}
+.header .logo{ background:url(/images/download/logo.png) no-repeat 4px 22px; width:186px; height:96px; float:left;}
+.header .logo a{ display:block; width:100%; height:100%;}
+.header .logo h1{ display:none;}
+.header .title{ width:200px; float:left; padding-top:14px; height:82px;}
+.header .title h2{ font-size:24px; height:82px; line-height:82px; color:#ffffff; font-family:Microsoft YaHei;}
+.header .nav{ height:70px; position:absolute; bottom:-1px; right:0;}
+.header .nav li{ width:100px; height:70px; float:left;}
+.header .nav a{ display:block; width:100px; height:68px; line-height:68px; border-bottom:2px; text-align:center; color:#fefefe; font-size:16px; font-family:Microsoft YaHei;}
+.header .nav a:hover{ border-bottom:2px solid #4b4b4b;}
+
+.main .tabBg{ background:url(/images/download/tab.png) repeat-x center top; height:282px; border-top:1px solid #cfcfcf; border-bottom:1px solid #d2d2d2;}
+.main .title{ height:90px;}
+.main .title p{ color:#a6a6a6; font-size:24px; padding-left: 220px;font-family:Microsoft YaHei; height:84px; line-height:84px;}
+.main .tab{width:920px; margin:0 auto;}
+.main .tabcontent{ height:600px;}
+
+
+.tab li{ width:164px; height:164px; float:left; margin:0px 10px; _margin:0; _padding:0px 10px;  position:relative; left:0; top:0; cursor:pointer; border-radius:50%;}
+.tab h3{ display:none;}
+.tab .line{ position:absolute; left:50%; margin-left:-5px; bottom:-33px; width:10px; height:34px; background:url(/images/download/tabOn.png) no-repeat center bottom; display:none; cursor:default; }
+.tab .gnhost{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .esoonlink{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center; }
+.tab .teamlink{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .teamlinkpro{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .bangwo8{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .gnhost{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .esoonlink{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center; }
+.tab .teamlink{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .teamlinkpro{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.tab .bangwo8{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+
+.tab .gnhostOn{ background:url(/images/download/gnhostOn.png) no-repeat center;}
+.tab .esoonlinkOn{ background:url(/images/download/esoonlinkOn.png) no-repeat center; }
+.tab .teamlinkOn{ background:url(/images/download/teamlinkOn.png) no-repeat center;}
+.tab .teamlinkproOn{ background:url(/images/download/teamlinkproOn.png) no-repeat center;}
+.tab .bangwo8On{ background:url(/images/download/bangwo8On.png) no-repeat center;}
+.tab .gnhostOn{ background:url(/images/download/gnhostOn.png) no-repeat center;}
+.tab .esoonlinkOn{ background:url(/images/download/esoonlinkOn.png) no-repeat center; }
+.tab .teamlinkOn{ background:url(/images/download/teamlinkOn.png) no-repeat center;}
+.tab .teamlinkproOn{ background:url(/images/download/teamlinkproOn.png) no-repeat center;}
+.tab .bangwo8On{ background:url(/images/download/bangwo8On.png) no-repeat center;}
+
+.product .row{ padding-top:36px; padding-left:380px; width:800px; }
+.product li{ height:108px; background:url(/images/download/dot.png) no-repeat left 32px; padding-left:26px; padding-top:20px;}
+.product .p1{ width:462px; height:108px; float:left;}
+.product .p1 .a1{ height:30px;}
+.product .p1 .a1 h4{ line-height:30px; font-family:Microsoft YaHei; font-size:24px; color:#666666;}
+.product .p1 .a1 span{ font-size:16px;}
+.product .p1 .first h4{ color:#ffab00;}
+.product .p1 .a2{ height:24px;}
+.product .p1 .a2 p{ height:24px; line-height:24px; font-family:Microsoft YaHei; font-size:12px; color:#999999;}
+.product .p1 .a3{ height:34px;}
+.product .p1 .a3 .box{ float:left; height:34px; line-height:34px; padding-right:18px;}
+.product .p1 .a3 a{ font-family:Microsoft YaHei; font-size:14px; color:#92bc00;  padding-left:26px;}
+.product .p1 .a3 a:hover{ text-decoration:underline;}
+.product .p2{ width:88px; height:88px; float:left;}
+.product .p2 a{ display:block; width:88px; height:88px; background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.product .p2 a:hover{ background:url(./金万维产品下载_files/esoonlinkCode.png) no-repeat center;}
+.product .p3{ width:120px; float:left; text-align:center; margin-left:-16px; margin-top:-8px;}
+.product .p3 span{ color:#999999; line-height:16px; font-size:12px; font-family:Microsoft YaHei;}
+.product .p3 i{ display:block; width:100px; height:100px; margin:0 auto; cursor:cell;}
+.product .p3 i img{ width:88px;}
+
+.tabcontent .bbs{ background:url(/金万维产品下载_files/esoonlinkCode.png) no-repeat left center;}
+.tabcontent .prod{ background:url(/金万维产品下载_files/esoonlinkCode.png) no-repeat left center;}
+.tabcontent .down{ background:url(/金万维产品下载_files/esoonlinkCode.png) no-repeat left center;}
+.tabcontent .read{background:url(/金万维产品下载_files/esoonlinkCode.png) no-repeat left center;}
+
+.footer{ background:#3d4655; padding-top:76px;}
+.footer .p1{ width:100%; margin:0 auto; overflow:hidden; height:350px;margin-left:190px;}
+.footer .p1 .a1{ width:204px; height:300px; float:left; border-left:1px solid #91949b; border-right:1px solid #626873;}
+.footer .p1 .first{ border-left:1px solid #3d4655;}
+.footer .p1 .last{ border-right:1px solid #3d4655;}
+.footer .p1 h5{ padding-left:16px;color:#757a81; font-size:14px; font-family:Microsoft YaHei; text-align:left;margin-left:10px; line-height:36px; height:46px;}
+.footer .p1 h5 a{color:#757a81;}
+.footer .p1 h5 a:hover{ text-decoration:underline;}
+.footer .p1 .ul2 li{ text-align:left; height:24px;padding-left:16px; line-height:24px;}
+.footer .p1 .ul2 .huoban{height:46px;line-height:36px;}
+.footer .p1 .ul2 .huoban a{color:#757a81; font-size:12px;}
+.footer .p1 .ul2 a{ color:#ccc; font-size:12px; font-family:Microsoft YaHei; padding:0 12px;}
+.footer .p1 .ul2 a:hover{ text-decoration:underline;}
+.footer .copyright{ height:200px;}
+.footer .copyright p{ line-height:22px; text-align:center; color:#a5a6a7; font-family:Microsoft YaHei; font-size:12px;}
