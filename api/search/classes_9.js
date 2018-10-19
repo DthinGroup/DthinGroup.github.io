@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['jadinfo',['JadInfo',['../d9/dff/classcom_1_1yarlungsoft_1_1ams_1_1JadInfo.html',1,'com::yarlungsoft::ams']]],
-  ['jadparser',['JadParser',['../d3/d31/classcom_1_1yarlungsoft_1_1ams_1_1JadParser.html',1,'com::yarlungsoft::ams']]]
+  ['jadinfo',['JadInfo',['../classcom_1_1yarlungsoft_1_1ams_1_1_jad_info.html',1,'com::yarlungsoft::ams']]],
+  ['jadparser',['JadParser',['../classcom_1_1yarlungsoft_1_1ams_1_1_jad_parser.html',1,'com::yarlungsoft::ams']]]
 ];
